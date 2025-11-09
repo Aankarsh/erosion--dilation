@@ -78,7 +78,7 @@ plt.axis('off')
 ### Display the input Image
 <br>
 <br>
-<img width="617" height="95" alt="image" src="https://github.com/user-attachments/assets/d6269021-b063-4d57-8a28-c15566410061" />
+<img width="515" height="102" alt="download" src="https://github.com/user-attachments/assets/825ed548-bb14-4080-ae74-411b3fb0811a" />
 
 
 <br>
