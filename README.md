@@ -110,8 +110,9 @@ plt.axis('off')
 ### Display the Dilated Image
 <br>
 <br>
-<img width="490" height="82" alt="image" src="https://github.com/user-attachments/assets/5084a3ae-4b20-4fdb-a431-660ebb253f0a" />
 
+
+<img width="515" height="102" alt="download" src="https://github.com/user-attachments/assets/38813f05-fdb1-42c7-bf37-4250da8f8378" />
 
 
 
