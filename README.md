@@ -99,8 +99,8 @@ plt.axis('off')
 ### Display the Eroded Image
 <br>
 <br>
-<img width="492" height="80" alt="image" src="https://github.com/user-attachments/assets/71f1b343-ee93-4926-83c7-655928e31903" />
 
+<img width="515" height="102" alt="download" src="https://github.com/user-attachments/assets/b66d5a37-3080-42b8-a8be-d3f20892863d" />
 
 
 <br>
