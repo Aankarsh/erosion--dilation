@@ -24,8 +24,9 @@ Apply dilation to the original image using the same structuring element to incre
 
  
 ## Program:
-### DEVELOPED BY : AANKARSH J
-### REG NO : 212223233001
+## Exp-9- Record-IMPLEMENTATION OF EROSION AND DILATION ##
+## NAME : AANKARSH J ##
+## REG.NO: 212223233001 ##
 
 # Import the necessary packages
 ```
